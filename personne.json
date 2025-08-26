@@ -1,0 +1,10 @@
+-'[{
+    "nom": "mariam",
+    "age": 30,
+    "ville": "paris",
+    "hobbies": [
+        "read coran",
+        "cuisine",
+        "voyage"
+    ]
+}

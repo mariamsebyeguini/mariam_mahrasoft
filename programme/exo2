@@ -1,0 +1,10 @@
+a=3
+b=4
+somme=a+b
+print(somme)
+produit=a*b
+print(produit)
+difference=a-b
+print(difference)
+quotient=a/b
+print(quotient)
